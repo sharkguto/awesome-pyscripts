@@ -1,0 +1,2 @@
+# awesome-pyscripts
+good scripts
